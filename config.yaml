@@ -11,10 +11,10 @@
 carpentry: 'lc'
 
 # Overall title for pages.
-title: 'Ny udgave af text mining på engelsk'
+title: 'Kursus i textmining ved brug af programmet Orange'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2024-05-01'
+created: '2025-02-03'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -27,7 +27,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/KUBDatalab/R-textmining_new'
+source: 'https://github.com/KUBDatalab/Orange-textmining'
 
 # Default branch of your lesson
 branch: 'main'
