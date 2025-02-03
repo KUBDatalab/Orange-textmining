@@ -7,7 +7,6 @@ exercises: 0
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - What is text mining?
-- What is tidy text?
 - What is stop words?
 - What is tokenisation?
 
@@ -17,7 +16,7 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Explain what text mining is
-- Explain what tidy text is
+
 - Explain what stop words is
 - Explain what tokenisation is
 
@@ -40,6 +39,12 @@ Text often contains words that hold no particular meaning. These are called stop
 
 ![Stopwords examples](./fig/Stopwords.png)
 ::::::
+
+
+
+
+
+
 
 ## Tidytext and tokenisation
 To be able to analyse a text it needs to be machine-readable. In this course we will follow the concepts of tidytext. 
