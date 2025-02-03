@@ -59,14 +59,13 @@ contact: 'kubdatalab@kb.dk'
 
 # Order of episodes in your lesson
 episodes: 
-- 00-introduction-orange.Rmd
-- 01-introduction-textmining.Rmd
-- 02-getting-ready.Rmd
-- 03-preparing-data.Rmd
-- 04-frequency-analysis.Rmd
-- 05-sentiment.Rmd
-- 06-stemming-and-more.Rmd
-- 07-whats-next.Rmd
+- 00-introduction-textmining.Rmd
+- 01-getting-ready.Rmd
+- 02-preparing-data.Rmd
+- 03-frequency-analysis.Rmd
+- 04-sentiment.Rmd
+- 05-stemming-and-more.Rmd
+- 06-whats-next.Rmd
 
 # Information for Learners
 learners: 
