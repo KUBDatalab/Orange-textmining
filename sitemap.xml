@@ -1,87 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/00-introduction.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/00-introduction.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/01-getting-ready.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/01-getting-ready.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/02-preparing-data.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/02-preparing-data.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/03-frequency-analysis.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/03-frequency-analysis.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/04-sentiment.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/04-sentiment.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/05-stemming-and-more.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/05-stemming-and-more.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/06-whats-next.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/06-whats-next.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/404.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/404.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/CODE_OF_CONDUCT.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/Gettingdata.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/Gettingdata.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/LICENSE.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/index.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/aio.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/00-introduction.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/images.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/01-getting-ready.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/index.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/02-preparing-data.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/00-introduction.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/03-frequency-analysis.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/01-getting-ready.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/04-sentiment.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/02-preparing-data.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/05-stemming-and-more.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/03-frequency-analysis.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/06-whats-next.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/04-sentiment.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/404.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/05-stemming-and-more.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/06-whats-next.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/Gettingdata.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/LICENSE.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/index.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/Gettingdata.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/profiles.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/instructor/reference.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/profiles.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://KUBDatalab.github.io/R-textmining_new/reference.html</loc>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/Orange-textmining/reference.html</loc>
   </url>
 </urlset>
